@@ -7,11 +7,10 @@ import re
 import sys
 
 # Complete the solve function below.
+import string
 def solve(s):
-    st=s.split(" ")
-    ans=st[0][0].upper()+st[0][1:]+" "+st[1][0].upper()+st[1][1:]
-    return ans
-
+    s=string.capwords(s,' ')
+    return s
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
