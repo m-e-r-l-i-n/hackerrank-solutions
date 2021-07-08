@@ -1,4 +1,4 @@
-problem link-https://www.hackerrank.com/challenges/missing-numbers/problem?h_r=internal-search
+//problem link-https://www.hackerrank.com/challenges/missing-numbers/problem?h_r=internal-search
 
 import java.io.*;
 import java.util.*;
