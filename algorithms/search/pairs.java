@@ -1,4 +1,4 @@
-problem link-https://www.hackerrank.com/challenges/pairs/problem?h_r=internal-search
+//problem link-https://www.hackerrank.com/challenges/pairs/problem?h_r=internal-search
 
 import java.io.*;
 import java.math.*;
