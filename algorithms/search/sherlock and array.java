@@ -1,4 +1,4 @@
-problem link-https://www.hackerrank.com/challenges/sherlock-and-array/problem
+//problem link-https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
 import java.io.*;
 import java.math.*;
