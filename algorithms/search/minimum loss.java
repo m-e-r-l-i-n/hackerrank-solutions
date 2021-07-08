@@ -1,4 +1,4 @@
-problem link-https://www.hackerrank.com/challenges/minimum-loss/problem
+//problem link-https://www.hackerrank.com/challenges/minimum-loss/problem
 
 import java.io.*;
 import java.math.*;
